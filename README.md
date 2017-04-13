@@ -1,6 +1,6 @@
-tinyPS2toXTArduino
-==================
+at2xtkbd
+========
 
-Simple Arduino based PS/2 to XT keyboard converter
+Simple Arduino based AT to XT keyboard converter
 
-Tested with Amstrad PC5086. Work in progress.
+Work in progress.
